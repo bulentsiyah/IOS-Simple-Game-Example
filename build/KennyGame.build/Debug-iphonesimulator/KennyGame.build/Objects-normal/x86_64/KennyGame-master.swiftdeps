@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "8e1e25c36f20b32ec9a43fe557a5dcd9"
+build_time: [1513531221, 346073000]
+inputs:
+  "/Users/bulentsiyah/Desktop/Xcode_Test/KennyGame/KennyGame/ViewController.swift": [1513531221, 0]
+  "/Users/bulentsiyah/Desktop/Xcode_Test/KennyGame/KennyGame/AppDelegate.swift": [1513526672, 0]
