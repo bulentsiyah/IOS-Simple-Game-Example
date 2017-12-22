@@ -1,1 +1,1 @@
-# iOS-Basit-Oyun-Ornegi
+# iOS Basit Oyun Ornegi
